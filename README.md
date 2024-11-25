@@ -1,7 +1,7 @@
 # Bike-Store-Analysis
 
 ## Project Overview
-This Project Is About A Bike Store Cointain Of Many Data Like: ID, Education , Purchasing Bike , Occupation And A Lot Of Information About Customers And Contain Of 1000 Row.
+This Project Is About A Bike Store Contain Of Many Data Like: ID, Education , Purchasing Bike , Occupation And A Lot Of Information About Customers And Contain Of 1000 Row.
 It Is Focus On Analyzing Bike Store's Data Using SQL And Power Bi To Extract Actionable Insights And Make Recommendation To Help Us In Future.
 
 
