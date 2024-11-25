@@ -16,10 +16,9 @@ It Is Focus On Analyzing Bike Store's Data Using SQL And Power Bi To Extract Act
   - Inserted Some Column To Make Dataset More Easy To Me In Extract Insights.
   - Cleaned Data From Missing Values And Duplicates.
 
--**Power BI**
+- **Power BI**
   - Build Some Interact Dashboards Make Data More Easy To Understand. 
+  - Extract Some Insights Based On The Analysis Process And Making Recommendations.
 
-- Extract Some Insights Based On The Analysis Process And Making Recommendations.
-
-Notes
-All Attached Files And PDF Show The Codes And Work Steps In Detailed Way.
+## Notes
+All Attached Files Show The Codes, Dashboard And Work Steps In Detailed Way.
